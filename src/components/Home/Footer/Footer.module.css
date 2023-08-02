@@ -9,6 +9,7 @@
     font-size: 0.7rem;
     line-height: 20px;
     color: #FFFFFF;
-    position: sticky;
-    bottom: 0;
+    position: fixed;
+    bottom:0;
+    
   }
