@@ -9,6 +9,6 @@
     font-size: 0.7rem;
     line-height: 20px;
     color: #FFFFFF;
-    position: absolute;
+    position: sticky;
     bottom: 0;
   }
