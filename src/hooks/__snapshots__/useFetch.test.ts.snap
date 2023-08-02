@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`useFetch > returns error when data is null 1`] = `"Something went wrong. Please try again later"`;
+
+exports[`useFetch > returns error when promise is rejected 1`] = `"Something went wrong. Please try again later"`;
+
+exports[`useFetch > returns error when status is not ok 1`] = `"Something went wrong. Please try again later"`;
